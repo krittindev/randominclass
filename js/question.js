@@ -23,7 +23,7 @@ questions = [
     ['อาชีพ','Career'],
     ['ความคิด','Idea'],
     ['ผู้สูงอายุ','Elder'],
-    ['เพศศึกษา','Sex education'],
+    ['ปูนางกิฟ','Sex education'],
 ]
 
 function logKey(e) {
